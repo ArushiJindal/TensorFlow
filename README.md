@@ -7,6 +7,9 @@ Topics Covered
 1. Introduction to TensorFlow.
 2. Basics of Classification problems, and hyperparatemers involved in training a Neural Network.
 3. Basics of Deep Neural Networks
+4. Basics Implementation of TensorFlow Convolution Layer
+5. CNN on MNIST using TensorFlow
+
 
 
 
