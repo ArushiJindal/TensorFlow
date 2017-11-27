@@ -10,6 +10,13 @@ Topics Covered
 4. Basics Implementation of TensorFlow Convolution Layer
 5. CNN on MNIST using TensorFlow
 
+After covering the above sections
+
+- Checkout the https://github.com/ArushiJindal/CarND-LenetLab project for practical implementation of LeNet on MNIST Dataset
+ 
+- Next work on a very cool project "German Traffic Sign Recognization" Using CNN in Tensorflow. https://github.com/ArushiJindal/CarND-Traffic-Sign-Classifier-Project
+
+
 
 
 
